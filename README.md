@@ -1,6 +1,6 @@
-# The Lunduke Computer Operating System
+# The Eulachon Computer Operating System
 
-A Linux system built by Lunduke, for Lunduke.
+A Linux system built by Lunduke, for Lunduke; then forked, for fish.
 
 ![](screenshots/LCOS-07-Desktop.png)
 
